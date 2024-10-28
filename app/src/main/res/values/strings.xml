@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CURRENCY</string>
+    <string name="button_text">Chuyển</string>
+    <string name="ed_text_hint">value</string>
+</resources>
